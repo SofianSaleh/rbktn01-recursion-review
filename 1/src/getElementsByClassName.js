@@ -4,7 +4,9 @@
 // };
 
 // But instead we're going to implement it from scratch:
-var getElementsByClassName = function(className
-) {
+var getElementsByClassName = function(className) {
   // your code here
+  // Get all elements from document
+  // Loop through element and 
+  // compare the class of each node to given class name
 };
